@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
                 <Nav className="ml-auto">
                     <Nav.Link href="#home">خانه </Nav.Link>
                     <Nav.Link href="#features">خانه 2</Nav.Link>
-                    <Nav.Link href="#pricing">sdا</Nav.Link>
+                    <Nav.Link href="#pricing">محصولات</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>
