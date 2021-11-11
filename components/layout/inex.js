@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
                 <Navbar.Brand href="#home">Navbar</Navbar.Brand>
                 <Nav className="ml-auto">
                     <Nav.Link href="#home">خانه </Nav.Link>
-                    <Nav.Link href="#features">محصولات</Nav.Link>
+                    <Nav.Link href="#features">خانه 2</Nav.Link>
                     <Nav.Link href="#pricing">تماس با ما</Nav.Link>
                 </Nav>
             </Container>
@@ -18,5 +18,6 @@ const Layout = ({ children }) => {
         <div>{children}</div>
     </div>);
 }
+
 
 export default Layout;
