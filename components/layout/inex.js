@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
                 <Navbar.Brand href="#home">Navbar</Navbar.Brand>
                 <Nav className="ml-auto">
                     <Nav.Link href="#home">خانه </Nav.Link>
-                    <Nav.Link href="#features">خانه 2</Nav.Link>
+                    <Nav.Link href="#features">خانه3</Nav.Link>
                     <Nav.Link href="#pricing">محصولات</Nav.Link>
                 </Nav>
             </Container>
